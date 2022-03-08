@@ -1,0 +1,23 @@
+{
+  "name": "l3-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksandr-Suchugov/L3_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksandr-Suchugov/L3_node/issues"
+  },
+  "homepage": "https://github.com/Aleksandr-Suchugov/L3_node#readme",
+  "dependencies": {
+    "@aleksandr-suchugov/lesson_3": "^1.0.0"
+  }
+}
